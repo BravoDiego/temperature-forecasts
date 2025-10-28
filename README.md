@@ -39,10 +39,11 @@ The project follows a structured **data science pipeline**:
    * Visualize the temperature evolution over time
    * Detect long-term trends and seasonal patterns
 
-   * line plot of temperature anomalies over time
-   <img src="./read/temperature anomaly over the years.png" alt="Texte alternatif" width="700"/>
-   * histogram or density plot showing anomaly distribution
-   <img src="./read/distribution of global temperature anomalies.png" alt="Texte alternatif" width="700"/>
+   * line plot of temperature anomalies over time / histogram or density plot showing anomaly distribution
+   <p align='center'>
+      <img src="./read/temperature anomaly over the years.png" alt="Texte alternatif" width="300"/>
+      <img src="./read/distribution of global temperature anomalies.png" alt="Texte alternatif" width="300"/>
+   </p>
 
 3. **Modeling & Forecasting**
 

@@ -91,10 +91,9 @@ pip install pandas numpy matplotlib seaborn statsmodels
 
 The forecasting model successfully reproduces the **global warming trend** and provides a **short-term prediction** of temperature anomalies.
 
-📊 *Suggested image export:*
-
-* ![result]('./read/forecast temperature.png')
-* `model_performance_summary.png` – bar chart comparing model performance metrics
+<p align='center'>
+   <img src="./read/forecast temperature.png" alt="Texte alternatif" width="700"/>
+</p>
 
 ---
 
@@ -120,5 +119,3 @@ Data Science & Climate Modeling Enthusiast
 ## 🙏 Acknowledgements
 - Thanks to [Machine Learnia](https://www.youtube.com/c/clearcode) for the idea
 - Datas by [NCEI](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series) 
-
-

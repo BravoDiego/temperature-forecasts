@@ -39,8 +39,10 @@ The project follows a structured **data science pipeline**:
    * Visualize the temperature evolution over time
    * Detect long-term trends and seasonal patterns
 
-   * ![temp over time]('./read/temperature anomaly over the years.png') – line plot of temperature anomalies over time
-   * ![temp distrib]('./read/distribution of global temperature anomalies.png') – histogram or density plot showing anomaly distribution
+   * line plot of temperature anomalies over time
+   <img src="./read/temperature anomaly over the years.png" alt="Texte alternatif" width="700"/>
+   * histogram or density plot showing anomaly distribution
+   <img src="./read/distribution of global temperature anomalies.png" alt="Texte alternatif" width="700"/>
 
 3. **Modeling & Forecasting**
 
@@ -117,4 +119,3 @@ Data Science & Climate Modeling Enthusiast
 ## 🙏 Acknowledgements
 - Thanks to [Machine Learnia](https://www.youtube.com/c/clearcode) for the idea
 - Datas by [NCEI](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series) 
-
